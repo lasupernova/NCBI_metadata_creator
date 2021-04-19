@@ -1,3 +1,3 @@
 # NCBI_metadata_creator<br><br>
 
-Creator for use with Nextstrain
+Creates a metadata file to be used with Nextstrain
